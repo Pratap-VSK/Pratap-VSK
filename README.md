@@ -91,19 +91,7 @@
 
 <br>
 
----
 
-### 🥧 Top Languages Distribution
-
-<div align="center">
-  <!-- Manual Aesthetic Language Bar Blocks (100% Reliable & Cyber Theme) -->
-  <img src="https://img.shields.io/badge/Python-75%25-43A047?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/JavaScript-15%25-00BFFF?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/HTML5%20%26%20CSS3-10%25-FF007F?style=for-the-badge&logo=html5&logoColor=white&labelColor=0D1117" />
-</div>
-<br>
-
----
 
 ### 🥧 Top Languages Distribution
 
