@@ -92,5 +92,16 @@
   <img src="https://img.shields.io/badge/JavaScript-15%25-00BFFF?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/HTML5%20%26%20CSS3-10%25-FF007F?style=for-the-badge&logo=html5&logoColor=white&labelColor=0D1117" />
 </div>
+<br>
+
+---
+
+### 🌐 Profile Analytics
+
+<div align="center">
+  <!-- Profile Views Counter (Cyberpunk Theme) -->
+  <img src="https://komarev.com/ghpvc/?username=Pratap-VSK&color=43A047&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0D1117" alt="Profile Views Counter" />
+</div>
+
 
 
