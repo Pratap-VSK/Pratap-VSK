@@ -3,9 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0F0C29&height=150&section=header&text=Hey%20there,%20I'm%20S.%20Pratap%20Vishwakarma%20👋&fontSize=32&fontColor=00E5FF&desc=Full%20Stack%20Developer%20&%20AI%20Integration%20Specialist&descSize=15&descAlignY=70&descColor=FF007F" width="100%" alt="Header Banner" />
   <br><br>
   <!-- Social Badges -->
-  <a href="YOUR_PORTFOLIO_LINK_HERE" target="_blank"><img src="https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio"/></a>
-  <a href="YOUR_LINKEDIN_LINK_HERE" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:your_email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/Pratap-VSK" target="_blank"><img src="https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://github.com/Pratap-VSK" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:itspratap255@gmail.com@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </div>
 
 <br><br>
@@ -80,22 +80,17 @@
 </div>
 <br>
 
----
-
-### 📊 Contribution Activity
-
-<div align="center">
-  <!-- Dynamic Activity Graph (Custom Dark Aesthetic: Green Line & Sky Blue Text) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pratap-VSK&bg_color=0D1117&color=00BFFF&line=43A047&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub Contribution Graph" />
-</div>
-
 <br>
 
-
+---
 
 ### 🥧 Top Languages Distribution
 
 <div align="center">
-  <!-- Top Languages Card (Aesthetic Dark Theme) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratap-VSK&layout=compact&bg_color=0D1117&title_color=43A047&text_color=00BFFF&hide_border=true&cache_seconds=86400&v=1003" width="100%" alt="Top Languages Distribution" />
+  <!-- Manual Aesthetic Language Bar Blocks (100% Reliable & Cyber Theme) -->
+  <img src="https://img.shields.io/badge/Python-75%25-43A047?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/JavaScript-15%25-00BFFF?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/HTML5%20%26%20CSS3-10%25-FF007F?style=for-the-badge&logo=html5&logoColor=white&labelColor=0D1117" />
 </div>
+
+
